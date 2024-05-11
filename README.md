@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi 👋 I'm Marilyn, an aspiring Full-stack software engineer with a particular interest in backend development.
 
 <!--
 **m2zhang/m2zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
